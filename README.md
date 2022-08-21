@@ -1,4 +1,8 @@
-### Hi there 👋 Im Athar!
+# Welcome to my GitHub page  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
+
+## 👤 About Me
+
+Hi folks! my name is Muhammad Athar Althariq Irawan. I am a Computer System student at Sriwijaya University.
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
