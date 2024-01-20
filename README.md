@@ -5,7 +5,7 @@
 Hi folks! my name is Muhammad Athar Althariq Irawan. I am a Computer System student at Sriwijaya University.
 
 My Personal Website:
-athar3.github.io
+[athar3.github.io](https://athar3.github.io/)
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
