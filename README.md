@@ -4,6 +4,9 @@
 
 Hi folks! my name is Muhammad Athar Althariq Irawan. I am a Computer System student at Sriwijaya University.
 
+My Personal Website:
+athar3.github.io
+
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/atharalthariq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
